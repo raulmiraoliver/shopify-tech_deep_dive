@@ -3,14 +3,19 @@
 ------
 
 ### mobile only
-(not mobile first)
+no, not mobile first :-)
 
 ------
 
-### core product
+### MyBank's core product
 <img src="svg/overview/core-product.svg"/>
 
 ------
 
-### monitoring
-<img src="svg/overview/monitoring.svg"/>
+### observability
+<img src="svg/overview/observability.svg"/>
+
+------
+
+### Microservices typical architecture
+<img src="svg/overview/typical-architecture.svg"/>

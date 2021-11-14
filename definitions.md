@@ -2,6 +2,11 @@
 
 ------
 
+### SEPA
+Single Euro Payments Area
+
+------
+
 ### accounts
 not "customers"
 

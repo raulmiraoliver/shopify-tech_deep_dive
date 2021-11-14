@@ -1,1 +1,1 @@
-../reveal.js/js
+node_modules/reveal.js/js
