@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51d90eda-e00d-4e50-9794-6e476260347c" name="Changes" comment="" />
+    <list default="true" id="51d90eda-e00d-4e50-9794-6e476260347c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg-drawio/external/components.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/svg-drawio/external/components.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg-drawio/instant/components.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/svg-drawio/instant/components.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/external/banks.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/external/components.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg/external/components.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/instant/components.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg/instant/components.svg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,6 +28,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="20sg2UP5Se8LctAKd4gpVtEfuPN" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -28,7 +41,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/svg/common" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -38,10 +51,11 @@
       <recent name="$PROJECT_DIR$/svg/internal" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/svg/instant" />
+      <recent name="$PROJECT_DIR$/svg/external" />
+      <recent name="$PROJECT_DIR$/svg-drawio/instant" />
+      <recent name="$PROJECT_DIR$/svg-drawio/external" />
       <recent name="$PROJECT_DIR$/svg/overview" />
-      <recent name="$PROJECT_DIR$/svg-drawio/overview" />
-      <recent name="$PROJECT_DIR$/svg-drawio" />
-      <recent name="$PROJECT_DIR$/svg-drawio/context" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -52,7 +66,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636838501436</updated>
+      <workItem from="1636973529993" duration="650000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
