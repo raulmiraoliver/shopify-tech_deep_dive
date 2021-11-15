@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51d90eda-e00d-4e50-9794-6e476260347c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg-drawio/overview/typical-architecture.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/svg-drawio/overview/typical-architecture.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg/overview/typical-architecture.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg/overview/typical-architecture.svg" afterDir="false" />
-    </list>
+    <list default="true" id="51d90eda-e00d-4e50-9794-6e476260347c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636838501436</updated>
-      <workItem from="1636973529993" duration="2092000" />
+      <workItem from="1636973529993" duration="2566000" />
     </task>
     <task id="LOCAL-00001" summary="fix wrong img srcs + switch instant/external components.svg">
       <created>1636974289316</created>
@@ -72,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636974289317</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="typical ms architecture diagram">
+      <created>1636976713777</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636976713777</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +83,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix wrong img srcs + switch instant/external components.svg" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix wrong img srcs + switch instant/external components.svg" />
+    <MESSAGE value="typical ms architecture diagram" />
+    <option name="LAST_COMMIT_MESSAGE" value="typical ms architecture diagram" />
   </component>
 </project>
